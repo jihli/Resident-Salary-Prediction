@@ -12,7 +12,8 @@ Part 4 Optimal Hyperparameters: Finding the optimal Hyperparameters of LogisticR
 Part 5 Model Extra Functionality: L1&L2 regularization to logistic regression/Random Forest - Feature Importance
 
 
-About Dataset
+----About Dataset----
+
 Extraction was done by Barry Becker from the 1994 Census database.
 Prediction task is to determine whether a person makes over 50K a year.
 
