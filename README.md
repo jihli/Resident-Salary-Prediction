@@ -2,9 +2,13 @@
 Salary Prediction Classification:
 
 Part 1 Data Exploration: Statistical analysis/Exploratory Data Analysis
+
 Part 2 Feature Preprocessing: Data Spliting /One Hot Encoding/Data Standardization
+
 Part 3 Model Training and Evaluation: Models Comparison/Model Evaluation - Confusion Matrix/ROC & AUC
+
 Part 4 Optimal Hyperparameters: Finding the optimal Hyperparameters of LogisticRegression&KNN&Random Forest via Grid Search
+
 Part 5 Model Extra Functionality: L1&L2 regularization to logistic regression/Random Forest - Feature Importance
 
 
