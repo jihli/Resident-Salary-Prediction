@@ -1,5 +1,5 @@
-# Salary-Prediction-Classification
-Resident-Salary Prediction Classification:
+# Resident-Salary Prediction Classification:
+
 
 Part 1 Data Exploration: Statistical analysis/Exploratory Data Analysis
 
