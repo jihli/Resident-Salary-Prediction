@@ -7,7 +7,7 @@ Part 2 Feature Preprocessing: Data Spliting /One Hot Encoding/Data Standardizati
 
 Part 3 Model Training and Evaluation: Models Comparison/Model Evaluation - Confusion Matrix/ROC & AUC
 
-Part 4 Optimal Hyperparameters: Finding the optimal Hyperparameters of LogisticRegression&KNN&Random Forest via Grid Search
+Part 4 Optimal Hyperparameters: Finding the optimal Hyperparameters of LogisticRegression&KNN&Random Forest via Grid Search and pick up the best machine learning model
 
 Part 5 Model Extra Functionality: L1&L2 regularization to logistic regression/Random Forest - Feature Importance
 
